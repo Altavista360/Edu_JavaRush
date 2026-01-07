@@ -1,4 +1,5 @@
-// Название: Сообщение в чате 💬
+// Название (JavaRush): Сообщение в чате 💬
+// Title (CodeGym): Chat message 💬
 
 /*
 Описание:
@@ -44,4 +45,5 @@ public class Solution
     }
 }
 
-// Ссылка: https://javarush.com/tasks/ru.javarush.java.core.level01.task02
+// Ссылка (JavaRush): https://javarush.com/tasks/ru.javarush.java.core.level01.task02
+// Link (CodeGym): https://codegym.cc/tasks/en.codegym.java.core.level01.task02

@@ -1,4 +1,5 @@
-// Название: Возраст проекта 💻
+// Название (JavaRush): Возраст проекта 💻
+// Title (CodeGym): Project age 💻
 
 /*
 Описание:
@@ -60,4 +61,5 @@ public class Solution
     }
 }
 
-// Ссылка: https://javarush.com/tasks/ru.javarush.java.core.level01.task06
+// Ссылка (JavaRush): https://javarush.com/tasks/ru.javarush.java.core.level01.task06
+// Link (CodeGym): https://codegym.cc/tasks/en.codegym.java.core.level01.task06

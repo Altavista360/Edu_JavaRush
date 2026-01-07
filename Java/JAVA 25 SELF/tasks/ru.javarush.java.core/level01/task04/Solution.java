@@ -1,4 +1,5 @@
-// Название: Текущий год 📅
+// Название (JavaRush): Текущий год 📅
+// Title (CodeGym): Current Year 📅
 
 /*
 Описание:
@@ -42,4 +43,5 @@ public class Solution
     }
 }
 
-// Ссылка: https://javarush.com/tasks/ru.javarush.java.core.level01.task04
+// Ссылка (JavaRush): https://javarush.com/tasks/ru.javarush.java.core.level01.task04
+// Link (CodeGym): https://codegym.cc/tasks/en.codegym.java.core.level01.task04

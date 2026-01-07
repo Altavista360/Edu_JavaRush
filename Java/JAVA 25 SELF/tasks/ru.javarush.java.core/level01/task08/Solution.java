@@ -1,4 +1,5 @@
-// Название: Создание профиля пользователя 👤
+// Название (JavaRush): Создание профиля пользователя 👤
+// Title (CodeGym): Creating a User Profile 👤
 
 /*
 Описание:
@@ -59,4 +60,5 @@ public class Solution
     }
 }
 
-// Ссылка: https://javarush.com/tasks/ru.javarush.java.core.level01.task08
+// Ссылка (JavaRush): https://javarush.com/tasks/ru.javarush.java.core.level01.task08
+// Link (CodeGym): https://codegym.cc/tasks/en.codegym.java.core.level01.task08

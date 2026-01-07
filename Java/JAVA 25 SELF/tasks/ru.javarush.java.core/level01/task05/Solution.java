@@ -1,4 +1,5 @@
-// Название: Личное сообщение 💌
+// Название (JavaRush): Личное сообщение 💌
+// Title (CodeGym): Personal message 💌
 
 /*
 Описание:
@@ -44,4 +45,5 @@ public class Solution
     }
 }
 
-// Ссылка: https://javarush.com/tasks/ru.javarush.java.core.level01.task05
+// Ссылка (JavaRush): https://javarush.com/tasks/ru.javarush.java.core.level01.task05
+// Link (CodeGym): https://codegym.cc/tasks/en.codegym.java.core.level01.task05

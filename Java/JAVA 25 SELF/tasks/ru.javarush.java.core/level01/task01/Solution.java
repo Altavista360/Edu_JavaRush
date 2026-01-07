@@ -1,4 +1,5 @@
-// Название: Первая команда 😎
+// Название (JavaRush): Первая команда 😎
+// Title (CodeGym): First Command 😎
 
 /*
 Описание:
@@ -36,4 +37,5 @@ public class Solution
     }
 }
 
-// Ссылка: https://javarush.com/tasks/ru.javarush.java.core.level01.task01
+// Ссылка (JavaRush): https://javarush.com/tasks/ru.javarush.java.core.level01.task01
+// Link (CodeGym): https://codegym.cc/tasks/en.codegym.java.core.level01.task01

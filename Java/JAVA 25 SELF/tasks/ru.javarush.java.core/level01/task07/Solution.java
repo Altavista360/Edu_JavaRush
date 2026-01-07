@@ -1,4 +1,5 @@
-// Название: Суммирование результатов в игре 🎮
+// Название (JavaRush): Суммирование результатов в игре 🎮
+// Title (CodeGym): Summing game scores 🎮
 
 /*
 Описание:
@@ -53,4 +54,5 @@ public class Solution
     }
 }
 
-// Ссылка: https://javarush.com/tasks/ru.javarush.java.core.level01.task07
+// Ссылка (JavaRush): https://javarush.com/tasks/ru.javarush.java.core.level01.task07
+// Link (CodeGym): https://codegym.cc/tasks/en.codegym.java.core.level01.task07
